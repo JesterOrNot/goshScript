@@ -1,0 +1,2 @@
+include 'goshScript'
+include 'goshScript.ide'
